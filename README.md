@@ -1,2 +1,0 @@
-# Planner-OneNote
-OneNote Planner 
