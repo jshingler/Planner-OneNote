@@ -10,7 +10,9 @@ image::./docs/images/freeToFocus.jpg[width=25%, height=25%, "Free to Focus"]
 
 ## Installing the Planner
 
-1) Download the Planner Zip file to your desktop from:
+1) Download the Planner Zip file to your desktop from:  
+
+https://github.com/jshingler/Planner-OneNote/blob/main/planner/Planner_Template.zip 
 
 2) Unzip the file if your operating system didn’t do it for you automatically
 
