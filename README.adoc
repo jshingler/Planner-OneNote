@@ -11,18 +11,20 @@ image::./docs/images/freeToFocus.jpg[width=25%, height=25%, "Free to Focus"]
 ## Installing the Planner
 
 1) Download the Planner Zip file to your desktop from:
+
 2) Unzip the file if your operating system didn’t do it for you automatically
+
 3) The planner can be imported to your OneNote using the OneNote Importer.  See the Instructions below
 
-	Export / Import OneNote Notebooks
+Export / Import OneNote Notebooks
 
-	https://support.microsoft.com/en-ie/office/export-and-import-onenote-notebooks-a4b60da5-8f33-464e-b1ba-b95ce540f309
+https://support.microsoft.com/en-ie/office/export-and-import-onenote-notebooks-a4b60da5-8f33-464e-b1ba-b95ce540f309
 
 4) Rename the notebook.  When the notebook is imported, it ends up in your OneDrive.  The Notebook can be renamed through using the instructions below.
 	
-	Rename OneNote Notebooks
-	
-	https://support.microsoft.com/en-us/office/rename-a-notebook-in-onenote-for-the-web-d75e88d2-ef77-43eb-a870-0abe89c1a036
+Rename OneNote Notebooks
+
+https://support.microsoft.com/en-us/office/rename-a-notebook-in-onenote-for-the-web-d75e88d2-ef77-43eb-a870-0abe89c1a036
 
 5) Add the notebook to your client as usual.
 
